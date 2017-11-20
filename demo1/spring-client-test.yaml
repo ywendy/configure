@@ -1,0 +1,3 @@
+my-config:
+  appName: my-demo1-app-test
+  debugMode: true
