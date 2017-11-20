@@ -1,5 +1,4 @@
 appName: bigger
-datasource: bigger-uat
 loggingPath: /opt/logs/log
 debug: true
 env: uat

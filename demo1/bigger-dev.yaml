@@ -1,5 +1,4 @@
 appName: bigger
-datasource: bigger-dev
 loggingPath: ../logs/log
 debug: true
 env: dev

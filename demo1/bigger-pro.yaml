@@ -1,5 +1,4 @@
 appName: bigger
-datasource: bigger-new
 loggingPath: /opt/logs/log
 debug: false
 env: production
