@@ -1,4 +1,4 @@
 appName: bigger
 loggingPath: ../logs/log
 debug: true
-env: dev
+env: gogoggo-dev
